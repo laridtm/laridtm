@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Lari, girl who codes.
+
 I have always been passionate about design and this incredible path has led me to software development. In it, I met incredible people who encouraged me to study iOS development, which I have been doing for months and has become a great interest and cause for joy for me.
 
 I learned a lot in a short period of time and I look forward to more knowledge, new challenges and to continue to meet sensational people and projects!
